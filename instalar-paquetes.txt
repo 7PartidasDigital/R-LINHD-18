@@ -1,0 +1,1 @@
+install.packages(c("tidyverse","tidytext","scales","igraph","ggraph","wordcloud","syuzhet","stylo","XML","RCurl","tm","topicmodels"))
